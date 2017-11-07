@@ -1,0 +1,27 @@
+{
+  "name": "testarea",
+  "version": "1.0.0",
+  "description": "Chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakerabbit/testarea.git"
+  },
+  "author": "Mirko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fakerabbit/testarea/issues"
+  },
+  "homepage": "https://github.com/fakerabbit/testarea#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.2",
+    "config": "^1.28.0",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "uuid": "^3.1.0"
+  }
+}
